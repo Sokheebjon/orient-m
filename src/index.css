@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: Montserrat !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.rs-notification-error {
+  background-color: rgba(241, 114, 114, 0.4) !important;
+}
+.rs-notification-error .rs-notification-item-content {
+  background-color: rgba(241, 114, 114, 0.4) !important;
+}
